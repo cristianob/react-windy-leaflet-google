@@ -1,6 +1,6 @@
 {
   "name": "react-windy-leaflet-google",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A port of react-leaflet-google to react-windy-leaflet",
   "main": "dist/react-leaflet-google.js",
   "scripts": {
